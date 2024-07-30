@@ -1,0 +1,1 @@
+Developed a DDR game using Arduino, featuring a piezo buzzer playing "Roar, Lion, Roar," an LCD display, and push buttons for interaction. This code is also uploaded onto TinkerCad: [here](https://www.tinkercad.com/things/enJwnitS1Mx-ddr)
